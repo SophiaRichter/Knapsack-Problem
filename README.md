@@ -1,7 +1,7 @@
 ---
 title:  'Gruppe 5: Das Rucksackproblem mit Q-Learning'
 subtitle: 'Vorlesung Reinforcement Learning, WS 2017/18, Universität Augsburg'
-author: [ 'Patrizia Schalk', 'Manuel Richter' ]
+author: [ 'Patrizia Schalk', 'Sophia Richter' ]
 abstract: |
   Das Rucksack-Problem ist bereits seit 1972 als NP-hartes Problem bekannt. 
   Da es somit nicht in polynomieller Zeit gelöst werden kann, stellt sich die Frage, 
